@@ -9,3 +9,4 @@ for learning purposes
 # my second pr#
 ### another  one#
 
+COS DO SKOMENTOWANIA
